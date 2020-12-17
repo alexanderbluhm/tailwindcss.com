@@ -84,7 +84,7 @@ module.exports = withBundleAnalyzer({
               withPrevalInstructions,
               withCodeSamples,
               withProse,
-              withTableOfContents,
+              // withTableOfContents,
               withSyntaxHighlighting,
               withNextLinks,
             ],
